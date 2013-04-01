@@ -21,7 +21,7 @@ FLARE.  If not, see http://www.gnu.org/licenses/
  */
 
 #include "WidgetScrollBox.h"
-#include "SDL_gfxBlitFunc.h"
+#include <SDL_gfxBlitFunc.h>
 
 using namespace std;
 

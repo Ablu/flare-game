@@ -25,7 +25,7 @@ FLARE.  If not, see http://www.gnu.org/licenses/
  */
 
 
-#include "SDL_gfxBlitFunc.h"
+#include <SDL_gfxBlitFunc.h>
 #include "Animation.h"
 #include "AnimationManager.h"
 #include "AnimationSet.h"

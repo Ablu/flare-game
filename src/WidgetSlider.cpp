@@ -29,7 +29,7 @@ FLARE.  If not, see http://www.gnu.org/licenses/
 #include "WidgetSlider.h"
 #include "SharedResources.h"
 #include "UtilsDebug.h"
-#include "SDL_gfxBlitFunc.h"
+#include <SDL_gfxBlitFunc.h>
 
 using namespace std;
 

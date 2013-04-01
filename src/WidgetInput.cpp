@@ -19,7 +19,7 @@ FLARE.  If not, see http://www.gnu.org/licenses/
 #include "WidgetInput.h"
 #include "SharedResources.h"
 #include "Settings.h"
-#include "SDL_gfxBlitFunc.h"
+#include <SDL_gfxBlitFunc.h>
 
 using namespace std;
 
